@@ -1,0 +1,1 @@
+The "web_scraper/output.json" file is the output file where the scraped data will be stored in JSON format. As such, it doesn't contain any code but will be filled with data once the web scraper is run. Initially, it can be an empty file.
